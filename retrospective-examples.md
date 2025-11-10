@@ -1,4 +1,5 @@
 # Retrospective Examples
+> Examples of retrospective techniques and improvement outcomes that drive team growth.
 
 ## Purpose
 Retrospectives create structured space for continuous improvement — they allow teams to identify what’s working, what’s not, and what to change next.
