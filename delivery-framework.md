@@ -1,4 +1,5 @@
 # Agile Delivery Framework
+> Overview of how I combine Scrum and Kanban principles to deliver predictability and continuous improvement.
 
 ## Overview
 My delivery approach combines the structure of Scrum with the flow-based flexibility of Kanban to create a balanced, outcome-focused framework. The goal is to maximise value delivery while maintaining predictability, transparency, and continuous learning.
