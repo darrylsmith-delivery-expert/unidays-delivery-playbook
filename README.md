@@ -4,9 +4,12 @@
 
 ### Senior Agile Delivery Manager | Engineering Delivery Leadership | DORA Metrics | Continuous Improvement
 
-This portfolio showcases my approach to agile delivery leadership, developed over several years of experience guiding cross-functional software teams, and leading agile experts within fast-paced digital organisations.
+## Why UNiDAYS
 
-Following a successful five-year tenure as Head of Core Engineering and Head of Agile at Tempcover, I took a planned career break to recharge and refocus on my long-term goal — applying my delivery leadership experience within a forward-thinking, purpose-driven technology organisation such as UNiDAYS.
+UNiDAYS’ mission to empower and connect the next generation resonates strongly with my own approach to delivery leadership — one grounded in purpose, learning, and measurable impact. I’m inspired by how the Product & Engineering organisation builds meaningful, high-quality digital experiences that evolve with user needs.  
+
+As an Agile Delivery Manager, I’m motivated by opportunities to help teams achieve consistency and confidence in delivery, especially where rapid iteration and cross-functional collaboration are key to success. I believe great delivery is about more than just process — it’s about creating the conditions for teams to thrive, learn quickly, and take pride in what they ship.
+
 
 ---
 
