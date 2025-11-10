@@ -1,4 +1,5 @@
 # Stakeholder Alignment Guide
+> My approach to building clarity and trust across engineering and product teams.
 
 ## Philosophy
 Clear communication and shared understanding are the foundation of reliable delivery. As a Delivery Manager, my role is to create alignment between product, engineering, and business stakeholders while maintaining flow for the delivery team.
