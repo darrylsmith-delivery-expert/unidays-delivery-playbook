@@ -1,5 +1,7 @@
 # Agile Health and Team Maturity
 
+> Example of how I measure and grow team health, maturity, and engagement.
+
 ## Objective
 Healthy, empowered teams deliver better outcomes. I use lightweight health checks and maturity models to help teams reflect and identify their next focus area for improvement.
 
